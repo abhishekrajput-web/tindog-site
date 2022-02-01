@@ -17,8 +17,8 @@
 <li>The App Brewery Project</li>
 <div>
 
-<h2 style="color:white;margin-top:20px">Credit For The Project<h2>
-  <img style="margin-bottom:22px;" src ="website pics/website pics 1.jpeg" alt="webiste img"/>
+<h2 style="color:white;margin-top:20px">Some Pics Of Separate Section Of Website<h2>
+  <img style="margin-bottom:22px;" src ="website pics/websitepics 1.jpeg" alt="webiste img"/>
   <img style="margin-bottom:22px;" src ="website pics/website pics 2.jpeg" alt="webiste img"/>
   <img style="margin-bottom:22px;" src ="website pics/website pics 3.jpeg" alt="webiste img"/>
   <img style="margin-bottom:22px;" src ="website pics/website pics 4.jpeg" alt="webiste img"/>
