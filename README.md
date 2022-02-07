@@ -1,7 +1,7 @@
 # tindog site
 
 <h1>Simple Tindog Website Using Html Css Js and Bootstrap</h1>
-<p><a href="https://abhishekrajput-web.github.io/tingog-site/">View The Live Website Deployment <a><p>
+<p><a href="https://abhishekrajput-web.github.io/tindog-site/">View The Live Website Deployment <a><p>
 
 <h2 style="color:white">Technology Used To Make This Website</h2>
 
